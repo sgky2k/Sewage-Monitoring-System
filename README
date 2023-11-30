@@ -1,0 +1,1 @@
+A Program to read data from various sensors attached to the Arduino and print them to serial, broadcast it via GSM module and to a remote server API.
